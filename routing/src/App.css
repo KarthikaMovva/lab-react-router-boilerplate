@@ -1,0 +1,28 @@
+.navbar{
+    display : flex;
+    background-color: black;
+    justify-content: space-between;
+    height: 70px;
+    text-decoration: none;
+    /* border: none; */
+  }
+  .get{
+    text-decoration: none;
+    color: white;
+    margin-right: 30px;
+    /* border: none; */
+    margin-top: 20px;
+    /* text-align: center; */
+  }
+  *{
+    margin: 0px;
+    padding: 0px;
+  }
+  .right{
+    display: flex;
+    text-align: center;
+    float: right;
+  }
+  .one{
+    font-size: 27px;
+  }
